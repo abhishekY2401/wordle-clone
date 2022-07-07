@@ -1,0 +1,18 @@
+.keyboard {
+    margin-top: 4rem;
+}
+
+.line-1, 
+.line-2, 
+.line-3 {
+    display: flex;
+    align-items: center;
+}
+
+.line-2 {
+    margin-left: 2vw;
+}
+
+.line-3 {
+    margin-left: 0.3vw;
+}
